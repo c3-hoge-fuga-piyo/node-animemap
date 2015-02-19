@@ -1,0 +1,29 @@
+{
+  "name": "animemap",
+  "version": "0.0.1",
+  "description": "Returns list of anime broadcast on TV in Japan.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/c3-hoge-fuga-piyo/node-animemap.git"
+  },
+  "keywords": [
+    "anime",
+    "animemap"
+  ],
+  "author": {
+    "name": "Shimoda Takao",
+    "email": "c3.hoge.fuga.piyo@gmail.com"
+  },
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/c3-hoge-fuga-piyo/node-animemap/issues"
+  },
+  "engines": {
+    "node": ">=0.11.13"
+  },
+  "engineStrict": true
+}
